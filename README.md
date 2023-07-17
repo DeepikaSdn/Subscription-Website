@@ -16,3 +16,5 @@ In Back End
 -Based on roles, permission to access modules can be decided.
 -Subscription type module send notification to administrator ,when a subscription type is added.
 
+Database 
+sub_management.sql  file
